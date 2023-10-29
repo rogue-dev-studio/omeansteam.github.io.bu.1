@@ -6,7 +6,7 @@ description: >
   Website ini menampilkan karya-karya Aris sebagai seorang desainer dan pengembang web yang mencakup desain grafis, desain UI/UX, serta pengembangan website.
 lang: en-US
 
-baseurl: "/omeansteam.github.io" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: https://omeansteam.github.io # the base hostname & protocol for your site
 git_address: https://github.com/omeansteam/omeansteam.github.io
 git_edit_address: https://github.com/omeansteam/omeansteam.github.io/blob/gh-pages
